@@ -1,7 +1,7 @@
 # projet_encadre
 Projet encadré semestre 1
 
-Web scraper et parser/analyseur synthaxique en chinois, russe, anglais et francais.
+Web scraper et parser/analyseur synthaxique en chinois, russe, anglais et francais utilisant essentiellement Spacy et NLTK.
 
 Manuel : ce script se lance avec 2 arguments en ligne de commande
 
