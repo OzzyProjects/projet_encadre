@@ -24,21 +24,34 @@ sinon, ils seront ignorés
 ATTENTION : Ce script necessite l'installation préalable de plusieurs modules via la commande pip (dans le shell):
 
 pip install fake_useragent
+
 pip install bs4
+
 pip install nltk
+
 pip install pymorphy2
+
 pip install razdel
+
 pip install pysbd
+
 pip install spacy
 
 python -m spacy download zh_core_web_sm
+
 python -m spacy download en_core_web_sm
+
 python -m spacy download fr_core_news_sm
 
 -> On telecharge le package pour le chinois zh_core_web_sm pour spacy
+
 -> On telecharge le package pour l'anglais en_core_web_sm pour spacy
+
 -> On telecharge le package pour le francais fr_core_news_sm pour spacy
 
+
 Placer le script dans le dossier PROGRAMMES/
+
 Laisser le programme tourner jusqu'à la fin.
+
 Le tableau récapitulatif se trouvera dans ../TABLEAUX
